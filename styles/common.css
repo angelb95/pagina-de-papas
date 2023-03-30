@@ -1,0 +1,60 @@
+/* common styles */
+body{
+    margin: 0px;
+   font-family: 'Roboto', sans-serif;
+}
+
+/* common nav styles */
+
+
+
+
+.contact-hours-wrapper {
+    color: royalblue;
+}
+
+
+.phone {
+    color: rgb(247, 248, 244);
+ font-family: 'Rubik Iso', cursive;   
+}
+
+
+.links-wrapper>.nav-link a{
+    font-family: 'Sono', sans-serif;
+    color: orangered;
+}
+
+
+
+.links-wrapper{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+
+.links-wrapper> .nav-link{
+    width: 70px;
+    text-align: center;
+    
+}
+
+.links-wrapper> .nav-link a{
+    font-family: "Ubuntu condensed", sans-serif;
+    color: #cbcbcb;
+    text-decoration: none;
+    transition: 0.5s;
+}
+.links-wrapper> .nav-link a:hover {
+    color: #cea135;
+    letter-spacing: 2px;
+}
+
+
+
+
+
+
+
+
+
